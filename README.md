@@ -1,0 +1,2 @@
+# Medical_Recomendation_System_Classification_-Herbal-Medicine-
+​This project is a machine learning–powered herbal medicine recommendation system designed to suggest appropriate herbal treatments based on specific diseases. By analyzing various data sources, including clinical symptoms and traditional herbal knowledge, the system aims to bridge the gap between ancient practices and modern technology.
